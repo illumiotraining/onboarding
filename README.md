@@ -1,1 +1,1 @@
-# Terraform deployment for 1 EC2 instance with SSH enabled
+# Terraform deployment Onboarding Module - AWS single instance EC2 with SSH
